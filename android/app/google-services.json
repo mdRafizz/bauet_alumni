@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175840290635",
+    "project_id": "bauet-alumni-3504f",
+    "storage_bucket": "bauet-alumni-3504f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175840290635:android:aba25c940b79560638aace",
+        "android_client_info": {
+          "package_name": "com.rafiz.alumni2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3Na77CgT7a1qJRANiy5CrEJ4rmD1--A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
