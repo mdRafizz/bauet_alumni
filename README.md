@@ -1,6 +1,6 @@
-# alumni2
+# BAUET Alumni 
 
-A new Flutter project.
+It's for my IDP course. Initially my plan was to do it on mobile app but on the suggestion of my supervisor I am doing it now on web. Here PHP will be used as backend. It's not completed yet.
 
 ## Getting Started
 
